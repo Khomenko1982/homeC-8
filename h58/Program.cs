@@ -89,17 +89,7 @@ void PrintArray(int[,] array)
 
 }
 
-// Метод  перевернутого двумерного массива
-// void SwapFirstAndLastRows(int[,] array)
-// {
-//     for (int i = 0; i < array.GetLength(1); i++)
-//     {
-//        int temp=array[0,i];
-//        array[0,i]=array[array.GetLength(0)-1 ,i];
-//        array[array.GetLength(0)-1 ,i]=temp;
-//     }
-
-// }
+// Метод  произведения двух массивов
 
 void CompositionArray(int[,] array)
 {
